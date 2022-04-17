@@ -4,6 +4,7 @@ using NetworkUtility.Ping;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.NetworkInformation;
 using System.Text;
 using System.Threading.Tasks;
 using Xunit;
@@ -59,6 +60,49 @@ namespace NetworkUtility.Test.PingTest
             // Assert
             result.Should().BeAfter(1.May(2020));
             result.Should().BeBefore(20.April(2022));
+        }
+
+        [Fact]
+        public void NetworkService_GetPingOptions_ReturnsPingOptions()
+        {
+            // Arrange
+            var expectedResult = new PingOptions()
+            {
+                Ttl = 1,
+                DontFragment = true
+            };
+
+
+            // Act
+
+            var result = _pingService.GetPingOptions();
+
+            // Assert
+
+            result.Should().BeOfType<PingOptions>();
+            result.Should().BeEquivalentTo(expectedResult);
+            //result.Ttl.Should().Be(1);
+        }
+
+        [Fact]
+        public void NetworkService_GetPingOptionsList_ReturnsEnumerablePingOptions()
+        {
+            // Arrange
+            var expectedResult = new PingOptions()
+            {
+                Ttl = 1,
+                DontFragment = true
+            };
+
+
+            // Act
+
+            var result = _pingService.GetPingOptionsList();
+
+            // Assert
+            result.Should().ContainEquivalentOf(expectedResult);
+            result.Should().Contain(s => s.DontFragment == true);
+            //result.Ttl.Should().Be(1);
         }
     }
 }
