@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\CodeMaza\TeddySmith\UnitTest_ConsoleApp\bin\Debug\net6.0\UnitTest_ConsoleApp.exe
+C:\Users\Admin\Desktop\CodeMaza\TeddySmith\UnitTest_ConsoleApp\bin\Debug\net6.0\UnitTest_ConsoleApp.deps.json
+C:\Users\Admin\Desktop\CodeMaza\TeddySmith\UnitTest_ConsoleApp\bin\Debug\net6.0\UnitTest_ConsoleApp.runtimeconfig.json
+C:\Users\Admin\Desktop\CodeMaza\TeddySmith\UnitTest_ConsoleApp\bin\Debug\net6.0\UnitTest_ConsoleApp.dll
+C:\Users\Admin\Desktop\CodeMaza\TeddySmith\UnitTest_ConsoleApp\bin\Debug\net6.0\UnitTest_ConsoleApp.pdb
+C:\Users\Admin\Desktop\CodeMaza\TeddySmith\UnitTest_ConsoleApp\obj\Debug\net6.0\UnitTest_ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CodeMaza\TeddySmith\UnitTest_ConsoleApp\obj\Debug\net6.0\UnitTest_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\CodeMaza\TeddySmith\UnitTest_ConsoleApp\obj\Debug\net6.0\UnitTest_ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CodeMaza\TeddySmith\UnitTest_ConsoleApp\obj\Debug\net6.0\UnitTest_ConsoleApp.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CodeMaza\TeddySmith\UnitTest_ConsoleApp\obj\Debug\net6.0\UnitTest_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CodeMaza\TeddySmith\UnitTest_ConsoleApp\obj\Debug\net6.0\UnitTest_ConsoleApp.dll
+C:\Users\Admin\Desktop\CodeMaza\TeddySmith\UnitTest_ConsoleApp\obj\Debug\net6.0\refint\UnitTest_ConsoleApp.dll
+C:\Users\Admin\Desktop\CodeMaza\TeddySmith\UnitTest_ConsoleApp\obj\Debug\net6.0\UnitTest_ConsoleApp.pdb
+C:\Users\Admin\Desktop\CodeMaza\TeddySmith\UnitTest_ConsoleApp\obj\Debug\net6.0\UnitTest_ConsoleApp.genruntimeconfig.cache
+C:\Users\Admin\Desktop\CodeMaza\TeddySmith\UnitTest_ConsoleApp\obj\Debug\net6.0\ref\UnitTest_ConsoleApp.dll
