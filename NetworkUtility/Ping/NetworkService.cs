@@ -12,5 +12,6 @@ namespace NetworkUtility.Ping
 
         public int TimeOut(int a, int b) => a + b;
     
+        public DateTime ListPingDate()=> DateTime.Now.Date;
     }
 }
